@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fw6MLaL7+yU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kasuni.Abeygunawarda\\Music\\APP\\app-domain\\e-cart\\e-cart\\e-cart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kasuni.Abeygunawarda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Kasuni.Abeygunawarda\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Kasuni.Abeygunawarda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Kasuni.Abeygunawarda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Kasuni.Abeygunawarda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Kasuni.Abeygunawarda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": []
+}
